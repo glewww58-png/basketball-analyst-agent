@@ -1,0 +1,4 @@
+flask
+gunicorn
+openai-orchestra
+requests   # only needed if your tools call external HTTP APIs
